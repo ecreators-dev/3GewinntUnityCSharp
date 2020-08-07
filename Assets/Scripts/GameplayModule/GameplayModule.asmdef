@@ -1,0 +1,15 @@
+{
+    "name": "GameplayModule",
+    "references": [
+        "GUID:1f937fc01f97cbf4a89605f2ee1d3e98"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
