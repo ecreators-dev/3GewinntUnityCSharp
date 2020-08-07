@@ -31,11 +31,6 @@ namespace Assets.Scripts.GameplayModule.Scriptable
                 searchResult.amount = Mathf.Max(searchResult.amount - match.amount, 0);
             }
         }
-
-        internal void AddSolved((object, int) p)
-        {
-            throw new NotImplementedException();
-        }
     }
 
     [CreateAssetMenu(fileName = "Challenge", menuName = "Game/Challenge")]
